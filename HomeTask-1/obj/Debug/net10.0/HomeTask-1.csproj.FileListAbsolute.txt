@@ -1,0 +1,14 @@
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\bin\Debug\net10.0\HomeTask-1.exe
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\bin\Debug\net10.0\HomeTask-1.deps.json
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\bin\Debug\net10.0\HomeTask-1.runtimeconfig.json
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\bin\Debug\net10.0\HomeTask-1.dll
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\bin\Debug\net10.0\HomeTask-1.pdb
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.AssemblyInfoInputs.cache
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.AssemblyInfo.cs
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.csproj.CoreCompileInputs.cache
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.dll
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\refint\HomeTask-1.dll
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.pdb
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\HomeTask-1.genruntimeconfig.cache
+C:\Users\Абдулло\Desktop\Muhammad c#\week8\HomeTask-1\obj\Debug\net10.0\ref\HomeTask-1.dll
