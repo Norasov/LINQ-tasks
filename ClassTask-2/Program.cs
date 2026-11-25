@@ -111,3 +111,28 @@ List<City> cities = new List<City>
 //                   where p.Age >= 2 && p.Age <= 7 &&
 //                     c.Name.StartsWith("a", StringComparison.OrdinalIgnoreCase)
 //                   select p;
+
+
+// Task 1 from ClassTask-3:Напишите метод для фильтрации людей старше 30 лет и проецирования их имен с помощью оптимизированного запроса LINQ.
+var names = people.Where(a => a.Age > 30).Select(a => a.Name).ToList();
+names.ForEach(a => System.Console.WriteLine(a));
+
+// Task 2 from ClassTask-3:Напишите метод для группировки людей по возрасту и подсчитайте количество людей в каждой возрастной группе с помощью оптимизированного запроса LINQ.
+// var groupByAge = people 
+//     .GroupBy(p => p.Age)
+//     .Select(g => new {Age = g.Key, Count = g.Count()}).ToList();
+
+// var groupByAge = from p in people       
+//                  group p by p.Age into g
+//                  select new {Age = g.Key, Count = g.Count()};
+
+
+// Task 3 from ClassTask-3: Напишите метод для сортировки коллекции людей по возрасту и выбора 5 самых старых людей с помощью оптимизированного запроса LINQ.
+// var oldest5People = people
+//     .OrderByDescending(p => p.Age).Take(5);
+
+// var oldest5People = (from p in people
+//                     orderby p.Age descending 
+//                     select p).Take(5);
+
+

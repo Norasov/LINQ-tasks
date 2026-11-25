@@ -12,3 +12,4 @@ C:\Users\Абдулло\OneDrive\Desktop\Muhammad c#\week8\ClassTask-2\obj\Debug
 C:\Users\Абдулло\OneDrive\Desktop\Muhammad c#\week8\ClassTask-2\obj\Debug\net10.0\ClassTask-2.pdb
 C:\Users\Абдулло\OneDrive\Desktop\Muhammad c#\week8\ClassTask-2\obj\Debug\net10.0\ClassTask-2.genruntimeconfig.cache
 C:\Users\Абдулло\OneDrive\Desktop\Muhammad c#\week8\ClassTask-2\obj\Debug\net10.0\ref\ClassTask-2.dll
+C:\Users\Абдулло\OneDrive\Desktop\Muhammad c#\week8\ClassTask-2\obj\Debug\net10.0\ClassTask-2.sourcelink.json
