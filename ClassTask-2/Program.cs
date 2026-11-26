@@ -50,31 +50,29 @@ List<City> cities = new List<City>
 
 // Task 3:Выберите первую букву имени каждого человека и сгруппируйте людей по этой букве.
 // var groupByFirstLetters = people
-//     .GroupBy(p => p.Name[0]);
+//     .GroupBy(p => p.Name[0])
 
 // var groupByFirstLetters = from o in people
 //                           group o by o.Name[0];
 
 // Task 4: Предположим, что существует еще один список объектов City. Присоединяйтесь к людям с городами на основе общего CityId и спроектируйте новый анонимный тип с именами людей и названиями городов.
-// var peopleWithCities = people.Join(
-//     cities,
+// var peopleWithCities = people.join(
 //     p => p.CityId,
 //     c => c.Id,
-//     (p, c) => new {PersonName = p.Name, CityName = c.Name}
+//     (p,c) => new {PersonName = p.Name, CityName = c.Name}
 // );
-
 // var peopleWithCities = from p in people
 //                        join c in cities on p.CityId equals c.Id
 //                        select new {PersonName = p.Name, CityName = c.Name};
 
 // Task 5: Вычислите общий возраст всех людей, имена которых начинаются с гласной.
 // var totalAgeVowelNames = people
-//     .Where(n => "AEIOUaeiou".Contains(n.Name[0]))
-//     .Sum(n => n.Age);
+//     .Where(p => "AEIOUaeiou".Contains(p.Name[0]))
+//     .Sum(p => p.Age);
 
-// var totalAgeVowelNames = from n in people
+// var totalAgeVowelNames = (from n in people
 //                          where "AEIOUaeiou".Contains(n.Name[0])
-//                          select n;
+//                          select n.Age).Sum();
 
 
 // Task 6: Сгруппируйте людей по первой букве имени и посчитайте, сколько человек попадает в каждую группу.
@@ -134,5 +132,3 @@ names.ForEach(a => System.Console.WriteLine(a));
 // var oldest5People = (from p in people
 //                     orderby p.Age descending 
 //                     select p).Take(5);
-
-

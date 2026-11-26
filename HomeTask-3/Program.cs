@@ -364,13 +364,10 @@
 
 // int GetDigitSum(int number)
 // {
-//     long value = Math.Abs((long)number);
 //     int sum = 0;
-
-//     while (value > 0)
+//     for (int i = number; i > 0; i/=10)
 //     {
-//         sum += (int)(value % 10);
-//         value /= 10;
+//         sum+=i%10;
 //     }
 //     return sum;
 // }

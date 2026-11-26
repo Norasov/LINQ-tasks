@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\bin\Debug\net10.0\ClassTask-1.exe
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\bin\Debug\net10.0\ClassTask-1.deps.json
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\bin\Debug\net10.0\ClassTask-1.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\bin\Debug\net10.0\ClassTask-1.dll
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\bin\Debug\net10.0\ClassTask-1.pdb
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.sourcelink.json
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.dll
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\refint\ClassTask-1.dll
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.pdb
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ClassTask-1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Новая папка (2)\LINQ-tasks\ClassTask-1\obj\Debug\net10.0\ref\ClassTask-1.dll
